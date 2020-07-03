@@ -1,4 +1,4 @@
-This is a README file for the paper with Noam from 2016 to 2019 on analyzing binary halo and their satellite halo population distribution. 
+This is a README file for the paper with Noam from 2016 to 2019 on analyzing binary halo and their satellite halo population distribution. Author: Chen Chris Gong
 
 The following is the order and purpose of each python code. Python 3 is used throughout. 
 
